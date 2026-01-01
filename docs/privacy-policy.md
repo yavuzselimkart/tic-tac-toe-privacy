@@ -80,4 +80,4 @@ Güncellemeler bu sayfada yayımlandığı anda yürürlüğe girer.
 
 Gizlilik Politikası ile ilgili sorular için:
 
-**E-posta:** **y.selimkart@gmail.com**
+**E-posta:** y.selimkart@gmail.com
